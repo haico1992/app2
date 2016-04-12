@@ -28,6 +28,8 @@ namespace app2
         }
     }
 
+
+
     [Activity(Label = "urlentryclass")]
     public class urlentryclass : Activity
     {
